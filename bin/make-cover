@@ -1,0 +1,19 @@
+#!/bin/sh
+
+file="build/cover.png"
+if [ ! -f "$file" ]; then
+    montage -tile 4x0 -geometry 640x448+1+1 -border 0 \
+    groups/lucy-in-the-sky-with-diamonds-the-beatles/1.png \
+    groups/mermaid-and-underwater-palace/1.png \
+    groups/animal-in-the-style-of-vincent-van-gogh/1.png \
+    groups/big-top-circus-with-ringmaster-and-performers/1.png \
+    groups/celtic-mythology-illustration/1.png \
+    groups/dinosaurs-roaming-the-earth-during-the-jurassic-era/1.png \
+    groups/flying-dragon-breathing-fire/1.png \
+    groups/hot-air-balloon-race-over-a-town/1.png \
+    groups/lightning-elemental-creatures/1.png \
+    groups/mirrorball-wonderland-taylor-swift/1.png \
+    groups/person-with-flower-headpiece-and-elegant-jewels/1.png \
+    groups/surrealist-space-creatures/1.png \
+    "$file"
+fi
