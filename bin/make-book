@@ -1,0 +1,63 @@
+#!/bin/sh
+
+# make-book a.k.a. pandoc-x-book
+#
+# This project-specific script is based on a general-purpose script:
+# https://github.com/sixarm/pandoc-from-markdown-to-pdf
+
+# This section is code from sixarm-unix-shell-functions:
+# https://github.com/SixArm/sixarm-unix-shell-functions
+
+EX_UNAVAILABLE=69
+
+die() {
+        n="$1" ; shift ; >&2 printf %s\\n "$*" ; exit "$n"
+}
+
+cmd() {
+        command -v "$1" >/dev/null 2>&1
+}
+
+cmd_or_die() {
+        cmd "$1" || die "$EX_UNAVAILABLE" "Command needed: $1"
+}
+
+font_exists() {
+        fc-list | grep -q ": $1:"
+}
+
+font_exists_or_die() {
+        font_exists "$1" || die "$EX_UNAVAILABLE" "Font needed: $1"
+}
+
+# Preflight
+
+cmd_or_die "pandoc"
+cmd_or_die "xelatex"
+
+font_exists_or_die "Bitstream Vera Serif"
+font_exists_or_die "Bitstream Vera Sans"
+font_exists_or_die "Bitstream Vera Sans Mono"
+
+# Main
+
+pandoc \
+    -f gfm \
+    -V linkcolor:blue \
+    -V mainfont="Bitstream Vera Serif" \
+    -V sansfont="Bitstream Vera Sans" \
+    -V monofont="Bitstream Vera Sans Mono" \
+    -V fontsize=12pt \
+    --pdf-engine=xelatex \
+    --include-in-header="$0.d/tex/geometry.tex" \
+    --include-in-header="$0.d/tex/chapter.tex" \
+    --include-in-header="$0.d/tex/blockquote.tex" \
+    --include-in-header="$0.d/tex/bullet.tex" \
+    --include-in-header="$0.d/tex/hyphen.tex" \
+    --include-in-header="$0.d/tex/inline_code.tex" \
+    --include-in-header="$0.d/tex/raggedright.tex" \
+    --toc \
+    --toc-depth=2 \
+    stable-diffusion-image-prompt-gallery-book.md \
+    -o \
+    stable-diffusion-image-prompt-gallery-book.pdf
