@@ -1,0 +1,1 @@
+montage -tile 3x3 -geometry 640x448+1+1 -border 0 "$@"
