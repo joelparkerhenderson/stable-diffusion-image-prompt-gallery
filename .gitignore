@@ -1,0 +1,5 @@
+.DS_Store
+stable-diffusion-image-prompt-gallery-book.pdf
+optipng.log
+*.bak
+build/**/*
