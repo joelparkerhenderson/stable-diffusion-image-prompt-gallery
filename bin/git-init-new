@@ -1,0 +1,38 @@
+#!/bin/sh
+set -x
+
+git remote add origin git@github.com:joelparkerhenderson/stable-diffusion-image-prompt-gallery.git
+git branch -M main
+git push -u origin main
+
+git a .gitignore
+git cm "Add .gitignore"
+
+find groups -type d -iname "*animal*"    | sort | while read -r x; do git a "$x"; git cm "Add $x"; done
+find groups -type d -iname "*mythology*" | sort | while read -r x; do git a "$x"; git cm "Add $x"; done
+find groups -type d -iname "*pretty*"    | sort | while read -r x; do git a "$x"; git cm "Add $x"; done
+find groups -type d -iname "*dancing*"   | sort | while read -r x; do git a "$x"; git cm "Add $x"; done
+find groups -type d -iname "*elemental*" | sort | while read -r x; do git a "$x"; git cm "Add $x"; done
+find groups -type d -iname "*surreal*"   | sort | while read -r x; do git a "$x"; git cm "Add $x"; done
+find groups -type d -iname "*-*"         | sort | while read -r x; do git a "$x"; git cm "Add $x"; done
+
+find bin -type f | sort | while read -r x; do git a "$x"; git cm "Add $x"; done
+
+git a Makefile
+git cm "Add Makefile" Makefile
+
+git a stable-diffusion-image-prompt-gallery-book.md
+git cm "Add stable-diffusion-image-prompt-gallery-book"
+
+git a README.md
+git cm "Add README"
+
+make groups
+git a groups/*/montage*
+git cm "Add groups montage images"
+
+make rollups
+git a book/rollups
+git cm "Add book rollups"
+
+make book
