@@ -333,6 +333,11 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/animal-in-the-style-of-mary-cassat"><img loading="lazy" width="30%" src="groups/animal-in-the-style-of-mary-cassat/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-mary-cassat/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-mary-cassat/3.png"></a>
 
 
+### [Norman Rockwell](groups/animal-in-the-style-of-norman-rockwell)
+
+<a href="groups/animal-in-the-style-of-norman-rockwell"><img loading="lazy" width="30%" src="groups/animal-in-the-style-of-norman-rockwell/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-norman-rockwell/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-norman-rockwell/3.png"></a>
+
+
 ### [Pablo Picasso](groups/animal-in-the-style-of-pablo-picasso)
 
 <a href="groups/animal-in-the-style-of-pablo-picasso"><img loading="lazy" width="30%" src="groups/animal-in-the-style-of-pablo-picasso/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-pablo-picasso/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-pablo-picasso/3.png"></a>

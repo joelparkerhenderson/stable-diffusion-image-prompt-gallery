@@ -532,6 +532,12 @@ This section uses these image prompts:
 ![](build/groups/animal-in-the-style-of-mary-cassat/montage-stack-2.png)
 
 
+## Norman Rockwell
+
+![](build/groups/animal-in-the-style-of-norman-rockwell/montage-stack-1.png)
+![](build/groups/animal-in-the-style-of-norman-rockwell/montage-stack-2.png)
+
+
 ## Pablo Picasso
 
 ![](build/groups/animal-in-the-style-of-pablo-picasso/montage-stack-1.png)
@@ -1005,6 +1011,8 @@ This section uses these image prompts:
 
 * Programmers writing software on laptops
 
+* Planets with moons and suns
+
 * Dreaming of feeling the emotion of joy
 
 
@@ -1060,6 +1068,12 @@ This section uses these image prompts:
 
 ![](build/groups/programmers-writing-software-on-laptops/montage-stack-1.png)
 ![](build/groups/programmers-writing-software-on-laptops/montage-stack-2.png)
+
+
+## Planets with moons and suns
+
+![](build/groups/planet-with-moons-and-suns/montage-stack-1.png)
+![](build/groups/planet-with-moons-and-suns/montage-stack-2.png)
 
 
 ## Dreaming of feeling the emotion of joy
