@@ -5,7 +5,8 @@ src="groups/$group"
 title=$(cat "$src/title.txt")
 
 cat <<EOF
-### [$title](groups/$group)
+## $title
 
-<a href="groups/$group"><img loading="lazy" width="30%" src="groups/$group/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/$group/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/$group/3.png"></a>
+![](build/groups/$group/montage-stack-1.png)
+![](build/groups/$group/montage-stack-2.png)
 EOF
