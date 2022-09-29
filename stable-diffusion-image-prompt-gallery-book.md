@@ -1,7 +1,7 @@
 ---
 title: "Stable Diffusion Image Prompt Gallery Book"
 author: "Joel Parker Henderson (joel@joelparkerhenderson.com)"
-date: "2022-09-28"
+date: "2022-09-29"
 ---
 
 # Welcome to Stable Diffusion
@@ -1040,8 +1040,8 @@ This section uses these image prompts:
 
 ## Delicious breakfast with vegan food
 
-![](build/groups/delicious-lunch-with-healthy-food/montage-stack-1.png)
-![](build/groups/delicious-lunch-with-healthy-food/montage-stack-2.png)
+![](build/groups/delicious-breakfast-with-vegan-food/montage-stack-1.png)
+![](build/groups/delicious-breakfast-with-vegan-food/montage-stack-2.png)
 
 
 ## Delicious lunch with healthy food
