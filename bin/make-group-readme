@@ -1,0 +1,10 @@
+#!/bin/sh
+
+group=$1
+src="groups/$group"
+file="$src/README.md"
+if [ ! -f "$file" ]; then
+    cp "bin/make-group-readme.d/README.md" "$file"
+    title=$(cat "$src/title.txt")
+    gsed -i "s/{{title}}/$title/" "$file"
+fi
