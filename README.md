@@ -616,7 +616,18 @@ Want to see more? Click or tap on any headline or image.
 
 ### [Programmers writing software on laptops](groups/programmers-writing-software-on-laptops)
 
-<a href="groups/programmers-writing-software-on-laptops"><img loading="lazy" width="30%" src="groups/programmers-writing-software-on-laptops/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/programmers-writing-software-on-laptops/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/programmers-writing-software-on-laptops/3.png"></a>
+<a href="groups/programmers-writing-software-on-laptops"><img loading="lazy" width="30%" src="groups/programmers-writing-software-on-laptops/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/programmers-writing-software-on-laptops/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/
+programmers-writing-software-on-laptops/3.png"></a>
+
+
+### [Delicious lunch with healthy food](groups/delicious-lunch-with-healthy-food)
+
+<a href="groups/delicious-lunch-with-healthy-food"><img loading="lazy" width="30%" src="groups/delicious-lunch-with-healthy-food/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-lunch-with-healthy-food/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-lunch-with-healthy-food/3.png"></a>
+
+
+### [Planets with moons and suns](groups/planet-with-moons-and-suns)
+
+<a href="groups/planet-with-moons-and-suns"><img loading="lazy" width="30%" src="groups/planet-with-moons-and-suns/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/planet-with-moons-and-suns/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/planet-with-moons-and-suns/3.png"></a>
 
 
 ### [Dreaming of feeling the emotion of joy](groups/dreaming-of-feeling-the-emotion-of-joy)

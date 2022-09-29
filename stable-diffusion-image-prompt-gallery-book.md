@@ -1070,6 +1070,12 @@ This section uses these image prompts:
 ![](build/groups/programmers-writing-software-on-laptops/montage-stack-2.png)
 
 
+## Delicious lunch with healthy food
+
+![](build/groups/delicious-lunch-with-healthy-food/montage-stack-1.png)
+![](build/groups/delicious-lunch-with-healthy-food/montage-stack-2.png)
+
+
 ## Planets with moons and suns
 
 ![](build/groups/planet-with-moons-and-suns/montage-stack-1.png)
