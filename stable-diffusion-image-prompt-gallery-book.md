@@ -603,6 +603,8 @@ This section uses these image prompts:
 
 * Interstellar space station interior
 
+* UFO alien arrival
+  
 
 ## Space exploration with rocket ship and alien
 
@@ -620,6 +622,12 @@ This section uses these image prompts:
 
 ![](build/groups/interstellar-space-station-interior/montage-stack-1.png)
 ![](build/groups/interstellar-space-station-interior/montage-stack-2.png)
+
+
+## UFO alien arrival
+
+![](build/groups/ufo-alien-arrival/montage-stack-1.png)
+![](build/groups/ufo-alien-arrival/montage-stack-2.png)
 
 
 # Mythology illustration
