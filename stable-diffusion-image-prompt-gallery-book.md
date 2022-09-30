@@ -401,7 +401,7 @@ This section uses the image prompts "animal in the style of" with these artists'
 
 * Georgia O'Keeffe
 
-* Helen Frankenthaler
+* Gustav Klimt
 
 * etc.
 
@@ -464,6 +464,12 @@ This section uses the image prompts "animal in the style of" with these artists'
 
 ![](build/groups/animal-in-the-style-of-georgia-okeeffe/montage-stack-1.png)
 ![](build/groups/animal-in-the-style-of-georgia-okeeffe/montage-stack-2.png)
+
+
+## Gustav Klimt
+
+![](build/groups/animal-in-the-style-of-gustav-klimt/montage-stack-1.png)
+![](build/groups/animal-in-the-style-of-gustav-klimt/montage-stack-2.png)
 
 
 ## Helen Frankenthaler
@@ -1161,12 +1167,333 @@ If you want to contribute a bit of money to help fund this project, that's great
 You can contribute any amount you wish via Venmo or PayPal to joel@joelparkerhenderson.com.
 
 
-### About the author
+## About the artists
 
-Joel Parker Henderson is a technology software developer based in California.
+This information about the artists is thanks to [Wikipedia](https://wikipedia.org).
+
+
+### Alexander Calder
+
+Alexander Calder (1898–1976) was an American sculptor known both for his innovative mobiles (kinetic sculptures powered by motors or air currents) that embrace chance in their aesthetic, his static "stabiles", and his monumental public sculptures. Calder preferred not to analyze his work, saying, "Theories may be all very well for the artist himself, but they shouldn't be broadcast to other people."
+
+
+### Alma Thomas
+
+Alma Thomas (1891–1978) was an African-American artist and teacher who lived and worked in Washington, D.C., and is now recognized as a major American painter of the 20th century. Thomas is best known for the "exuberant", colorful, abstract paintings that she created after a 35-year career teaching art. Thomas is considered a member of the Washington Color School of artists and an Expressionist. She achieved success as an African-American female artist despite the segregation and prejudice of her time.
+
+
+### Amrita Sher-Gil
+
+Amrita Sher-Gil (1913–1941) was a Hungarian-Indian painter. She has been called "one of the greatest avant-garde women artists of the early 20th century" and a pioneer in modern Indian art. She started art lessons at the age of eight, and gained recognition at the age of 19. Sher-Gil depicted everyday life of the people in her paintings. She traveled throughout her life to various countries including Turkey, France, and India, deriving heavily from precolonial Indian art styles and its current culture.
+
+
+### Artemisia Gentileschi
+
+Artemisia Gentileschi (1593–c1656) was an Italian Baroque painter. Gentileschi is considered among the most accomplished seventeenth-century artists, initially working in the style of Caravaggio. She was producing professional work by the age of fifteen. Gentileschi was the first woman to become a member of the Accademia di Arte del Disegno in Florence and she had an international clientele.
+
+
+### Berthe Morisot
+
+Berthe Morisot (1841-1895) was a French painter and a member of the circle of painters in Paris who became known as the Impressionists. In 1864, Morisot exhibited for the first time in the highly esteemed Salon de Paris. She joined the "rejected" Impressionists in the first of their own exhibitions, which included Paul Cézanne, Edgar Degas, Claude Monet, Camille Pissarro, Pierre-Auguste Renoir and Alfred Sisley.
+
+
+### Catrin Welz-Stein
+
+Catrin Welz-Stein (?-) is German illustrator and professional graphic art designer. Her images have a dreamlike and surreal quality.
+Her inspirations are fantasy, children stories, medieval, Jugendstil, Folklore and Surrealism. She is also inspired by the work of Nicoletta Ceccoli, Kelly Rae Roberts, Sabrina Ward Harrison, Olaf Hajek, Maggie Taylor, Natalie Shau, Colette Calascione and Nazario Graziano. She graduated from Graphic Design in Darmstadt, Germany.
+
+
+### Claude Monet
+
+Claude Monet (1840–1926) was a French painter and founder of impressionist painting who is seen as a key precursor to modernism, especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature, especially as applied to plein air (outdoor) landscape painting.
+
+
+### Élisabeth Vigée Le Brun
+
+Élisabeth Vigée Le Brun (1755–1842) was a French portrait painter, especially of women, in the late 18th and early 19th centuries. Her artistic style is generally considered part of the aftermath of Rococo with elements of an adopted Neoclassical style. She enjoyed the patronage of European aristocrats, actors, and writers, and was elected to art academies in ten cities.
+
+
+### Frida Kahlo
+
+Frida Kahlo (1907–1954) was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico. Inspired by the country's popular culture, she employed a naïve folk art style to explore questions of identity, postcolonialism, gender, class, and race in Mexican society. Kahlo has been described as a surrealist or magical realist.
+
+
+### Georgia O'Keeffe
+
+Georgia O'Keeffe (1887–1986) was an American modernist artist. She was known for her paintings of enlarged flowers, New York skyscrapers, and New Mexico landscapes. O'Keeffe has been called the "Mother of American modernism".  O'Keeffe created many forms of abstract art, including close-ups of flowers, New Mexico landscapes, and images of animal skulls.
+
+
+### Gustav Klimt
+
+Gustav Klimt (1862–1918) was an Austrian symbolist painter and a prominent member of the Vienna Secession movement. Klimt is noted for his paintings, murals, sketches, and other objets d'art. Klimt's primary subject was the female body, and his works are marked by eroticism. Klimt was influenced by Japanese art and its methods. He achieved success with the paintings of his "golden phase", many of which include gold leaf. 
+
+
+### Helen Frankenthaler
+
+Helen Frankenthaler (1928–2011) was an American abstract expressionist painter. She was a major contributor to the history of postwar American painting. She spanned several generations of abstract painters while continuing to produce vital and ever-changing new work. Born in Manhattan, she was influenced by Greenberg, Hans Hofmann, and Jackson Pollock's paintings. In 2001, she was awarded the National Medal of Arts.
+
+
+### Henri Matisse
+
+Henri Matisse (1869–1954) was a French visual artist, known for both his use of colour and his fluid and original draughtsmanship. He was a draughtsman, printmaker, and sculptor, but is known primarily as a painter. Matisse is commonly regarded, along with Pablo Picasso, as one of the artists who best helped to define the revolutionary developments in the visual arts throughout the opening decades of the twentieth century.
+
+
+### Henry Ossawa Tanner
+
+Henry Ossawa Tanner (1859–1937) was an American artist and the first African-American painter to gain international acclaim. Tanner moved to Paris, France, in 1891 to study at the Académie Julian and gained acclaim in French artistic circles. After pursuing art on his own as a young man, Tanner enrolled at the Pennsylvania Academy of the Fine Arts in Philadelphia in 1879. The only black student, he became a favorite of the painter Thomas Eakins, who had recently started teaching there.
+
+
+### Hilma af Klint
+
+Hilma af Klint (1862–1944) was a Swedish artist and mystic whose paintings are considered among the first abstract works known in Western art history. She belonged to a group called "The Five", comprising a circle of women inspired by Theosophy, who shared a belief in the importance of trying to contact the so-called "High Masters"—often by way of séances. Her paintings were a visual representation of complex spiritual ideas.
+
+
+### Jean-Michel Basquiat
+
+Jean-Michel Basquiat (1960–1988) was an American artist who rose to success in the 1980s Neo-expressionism movement. Basquiat's art focused on dichotomies of wealth versus poverty, integration versus segregation, and inner versus outer experience. He appropriated poetry, drawing, and painting, and married text and image, abstraction and historical information. He used social commentary for introspection, identification with the Black community, and attacks on power structures and systems of racism.
+
+
+### Jeff Koons
+
+Jeff Koons (1955–) is an American artist recognized for his work dealing with popular culture and his sculptures depicting everyday objects, including balloon animals produced in stainless steel with mirror-finish surfaces. Critics are sharply divided in their views of Koons. Some view his work as pioneering and of major art-historical importance. Others dismiss his work as kitsch, crass, and based on cynical self-merchandising. Koons has stated that there are no hidden meanings and critiques in his works.
+
+
+### Johannes Vermeer
+
+Johannes Vermeer (1632–1675) was a Dutch Baroque Period painter who specialized in domestic interior scenes of middle-class life. During his lifetime, he was a moderately successful provincial genre painter. Vermeer worked slowly and with great care, and frequently used very expensive pigments. He is particularly renowned for his masterly treatment and use of light in his work.
+
+
+### Josephine Wall
+
+Josephine Wall
+
+
+### Kehinde Wiley
+
+Kehinde Wiley
+
+
+### Leonardo da Vinci
+
+Leonardo da Vinci (1452–1519) was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. His fame initially rested on his achievements as a painter, he also became known for his notebooks of anatomy, astronomy, botany, cartography, painting, and paleontology. Leonardo is  regarded to have been a genius who epitomized the Renaissance humanist ideal.
+
+
+### Leonora Carrington
+
+Leonora Carrington (1917–2011) was a British-born Mexican artist, surrealist painter, and novelist. She lived most of her adult life in Mexico City and was one of the last surviving participants in the surrealist movement of the 1930s.[2] Carrington was also a founding member of the women's liberation movement in Mexico during the 1970s.
+
+
+### Louise Bourgeois
+
+Louise Bourgeois
+
+
+### Mary Cassatt
+
+Mary Cassatt (1844-1926) was an American painter and printmaker. She was born in Allegheny, Pennsylvania (now part of Pittsburgh's North Side), but lived much of her adult life in France, where she befriended Edgar Degas and exhibited with the Impressionists. Cassatt often created images of the social and private lives of women, with particular emphasis on the intimate bonds between mothers and children.
+
+
+### Norman Rockwell
+
+Norman Rockwell
+
+
+### Pablo Picasso
+
+Pablo Picasso (1881–1973) was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer who spent most of his adult life in France. Regarded as one of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture, the co-invention of collage, and for the wide variety of styles that he helped develop and explore. 
+
+
+### Pan Yuliang
+
+Pan Yuliang
+
+
+### Roy Lichtenstein
+
+Roy Lichtenstein
+
+
+### Salvador Dalí
+
+Salvador Dalí (1904–1989) was a Spanish surrealist artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work. Dalí's artistic repertoire included painting, graphic arts, film, sculpture, design and photography. He also wrote fiction, poetry, autobiography, essays and criticism. Major themes in his work include dreams, the subconscious, sexuality, religion, science and his closest personal relationships.
+
+
+### Tamara de Łempicka
+
+Tamara de Łempicka (1898–1980) was a Polish painter who spent her working life in France and the United States. She is best known for her polished Art Deco portraits of aristocrats and the wealthy, and for her highly stylized paintings of nudes. Her style was a blend of late, refined cubism and the neoclassical style. Her work made a comeback in the late 1960s, with the rediscovery of Art Deco. 
+
+
+### Thomas Kinkade
+
+Thomas Kinkade
+
+
+### Vincent van Gogh
+
+Vincent van Gogh (1853–1890) was a Dutch Post-Impressionist painter who posthumously became one of the most famous and influential figures in the history of Western art. In a decade, he created about 2,100 artworks. They include landscapes, still lifes, portraits, and self-portraits characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. 
+
+
+## About the mythologies
+
+This information about the mythologies is thanks to [Wikipedia](https://wikipedia.org).
+
+
+### Aboriginal
+
+Australian Aboriginal religion and mythology is the sacred spirituality represented in the stories performed by Aboriginal Australians within each of the language groups across Australia in their ceremonies. Aboriginal spirituality includes the Dreamtime (the Dreaming), songlines, and oral literature. Aboriginal spirituality often conveys descriptions of each group's local cultural landscape, adding meaning to the whole country's topography from oral history told by ancestors from some of the earliest recorded history.
+
+
+### Arthurian
+
+Arthurian
+
+
+### Aztec
+
+Aztec mythology is the body or collection of myths of the Aztec civilization of Central Mexico. The Aztecs were Nahuatl-speaking groups living in central Mexico and much of their mythology is similar to that of other Mesoamerican cultures. According to legend, the various groups who were to become the Aztecs arrived from the north into the Anahuac valley around Lake Texcoco. The location of this valley and lake of destination is clear – it is the heart of modern Mexico City – but little can be known with certainty about the origin of the Aztec.
+
+
+### Bantu
+
+Bantu mythology is the system of beliefs and legends of the Bantu people of Africa. Although Bantu peoples account for several hundred different ethnic groups, there is a high degree of homogeneity in Bantu cultures, customs, and llanguages. Generally, these traditions are oral and passed down from one generation to another through folk tales, songs, and festivals. These include belief in an amount of higher and lower gods, veneration of the dead, use of magic and traditional African medicine. Most religions can be described as animistic with various polytheistic and pantheistic aspects.
+
+
+### Buddhist
+
+Buddhist traditions have created and maintained a vast body of mythological literature. The central myth of Buddhism is the life of the Buddha. The chief motif of this story, and the most distinctive feature of Buddhist myth, is the Buddha's renunciation, leaving his home and family for a spiritual quest. The traditions contain large numbers of smaller stories, which are usually supposed to convey an ethical or Buddhist teaching. Since these are regarded as episodes in the life of the Buddha, they are treated here as “myth”, rather than distinguishing between myth, legend, and folk-tale.
+
+
+### Celtic
+
+Celtic mythology is the body of myths belonging to the Celtic peoples. Like other Iron Age Europeans, Celtic peoples followed a polytheistic religion, having many gods and goddesses. The supernatural race called the Tuatha Dé Danann are believed to be based on the main Celtic gods of Ireland, while many Welsh characters belong either to the Plant Dôn ("Children of Dôn") and the Plant Llyr ("Children of Llyr"). One common figure is the sovereignty goddess, who represents the land. The Otherworld is also a common motif; a parallel realm of the supernatural races, which is visited by some mythical heroes. Celtic myth influenced later Arthurian legend.
+
+
+### Chinese
+
+Chinese mythology is mythology that has been passed down in oral form or recorded in literature in the geographic area now known as Greater China. Much of the mythology involves exciting stories full of fantastic people and beings, the use of magical powers, often taking place in an exotic mythological place or time. Many myths involve the creation and cosmology of the universe and its deities and inhabitants. Some mythology involves creation myths, the origin of things, people and culture. Many myths are oral associations with ritual acts, such as dances, ceremonies, and sacrifices.
+
+
+### Egyptian
+
+Egyptian mythology is the collection of myths from ancient Egypt, which describe the actions of the Egyptian gods as a means of understanding the world around them. Myths appear frequently in Egyptian writings, art, hymns, ritual texts, funerary texts, and temple decoration. Inspired by the cycles of nature, the Egyptians saw time in the present as a series of recurring patterns, whereas the earliest periods of time were linear. Important episodes are the creation myths, in which the gods form the universe out of primordial chaos; the stories of the reign of the sun god Ra upon the earth; and the Osiris myth, concerning the struggles of the gods Osiris, Isis, and Horus against the disruptive god Set.
+
+
+### Greek
+
+Greek mythology is the body of myths originally told by the ancient Greeks. These stories concern the origin and nature of the world, the lives and activities of deities, heroes, and mythological creatures, and the origins and significance of the ancient Greeks' own cult and ritual practices. The Greek myths were initially propagated in an oral-poetic tradition most likely by Minoan and Mycenaean singers starting in the 18th century BC; eventually the myths of the heroes of the Trojan War and its aftermath became part of the oral tradition of Homer's epic poems, the Iliad and the Odyssey. Pictorial representations of gods, heroes, and mythic episodes featured prominently in the decoration of artifacts.
+
+
+### Hindu
+
+Hindu mythology is the body of myths and literature attributed to, and espoused by, the adherents of the Hindu religion, found in Hindu texts such as the Vedic literature, epics like Mahabharata and Ramayana,[2] the Puranas, and regional literature like the Tamil Periya Puranam and Naalayira Divya Prabandham, and the Mangal Kavya of Bengal. Hindu myths are also found in widely translated popular texts such as the fables of the Panchatantra and the Hitopadesha, as well as in Southeast Asian texts.
+
+
+### Inuit
+
+Inuit religion is the shared spiritual beliefs and practices of the Inuit, an indigenous people from Alaska, northern Canada, parts of Siberia and Greenland. Traditional Inuit religious practices include animism and shamanism, in which spiritual healers mediate with spirits. The Inuit cosmos is ruled by no one. There are no divine mother and father figures, no wind gods and solar creators, no eternal punishments, and no punishments for children or adults in the here and now. Traditional stories, rituals, and taboos of the Inuit are often precautions against dangers posed by their harsh Arctic environment.
+
+
+### Japanese
+
+Japanese mythology is a collection of traditional stories, folktales, and beliefs that emerged in the islands of the Japanese archipelago. Shinto and Buddhist traditions are the cornerstones of Japanese mythology. The history of thousands of years of contact with Korea, Ainu, and Okinawan myths are also key influences in Japanese mythology.Japanese myths are tied to the topography of the archipelago as well as agriculturally-based folk religion, and the Shinto pantheon holds countless kami (Japanese for "god(s)" or "spirits"). This article will discuss cosmogony, important deities, modern interpretations, cultural significance, and the influence of these myths.
+
+
+### Maya
+
+Maya mythology is part of Mesoamerican mythology and comprises all of the Maya tales in which personified forces of nature, deities, and the heroes interacting with these play the main roles. The myths of the Pre-Hispanic era have to be reconstructed from iconography. In Maya narrative, the origin of many natural and cultural phenomena is set out, often with the moral aim of defining the ritual relationship between humankind and its environment. There are explanations about the origin of the heavenly bodies; the mountain landscape; clouds, rain, thunder and lightning; wild and tame animals; the colors of the maize; diseases and their curative herbs; agricultural instruments, etc.
+
+
+### Native American
+
+Native American religions are the spiritual practices of the Native Americans in the United States. Ceremonial ways can vary widely and are based on the differing histories and beliefs of individual nations, tribes and bands. Early European explorers describe individual Native American tribes and even small bands as each having their own religious practices. Theology may be monotheistic, polytheistic, henotheistic, animistic, shamanistic, pantheistic or any combination thereof, among others. Traditional beliefs are usually passed down in the forms of oral histories, stories, allegories, and principles.
+
+
+### Norse
+
+Norse mythology consists of tales of various deities, beings, and heroes. The mythology centers on the plights of the gods and their interaction with several other beings, such as humanity and the jötnar, beings who may be friends, lovers, foes, or family members of the gods. The cosmos consists of Nine Worlds that flank a central sacred tree, Yggdrasil. Units of time and elements of cosmology are personified as deities or beings. The world is created from the flesh of the primordial being Ymir, and the first two humans are Ask and Embla. Worlds are foretold to be reborn after Ragnarök, an immense battle between the gods and their enemies.
+
+
+### Polynesian
+
+Polynesian
+
+
+### Swedish
+
+Swedish
+
+
+### Vodun
+
+Vodun means spirit in the Fon, Gun and Ewe languages; also spelled Vodon, Vodoun, Vodou, Vudu, Voudou, Voodoo, etc.. Vodun is a religion practiced by the Aja, Ewe, and Fon peoples of Benin, Togo, Ghana, and Nigeria. Elements of the West African religion survived slavery and evolved into religions in the New World among the African diaspora in the Americas. Vodun cosmology centers around the vodun spirits and other elements of divine essence that govern the Earth, a hierarchy that range in power from major deities governing the forces of nature and human society to the spirits of individual streams, trees, and rocks, as well as dozens of ethnic vodun, defenders of a certain clan, tribe, or nation.
+
+
+## About Stable Diffusion
+
+This information is thanks to [Wikipedia](https://wikipedia.org/Stable_Diffusion).
+
+
+### Introduction
+
+Stable Diffusion is a deep learning, text-to-image model released by startup StabilityAI in 2022. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text prompt.
+
+Stable Diffusion's code and model weights have been released publicly. Analysis of the model's training data suggests that approximately 47% of images came from 100 different domains, such as Pinterest, WordPress, Blogspot, Flickr, DeviantArt, and Wikimedia Commons.
+
+
+### Text to image generation
+
+The text to image sampling script within Stable Diffusion, known as "txt2img", consumes a text prompt, in addition to assorted option parameters covering sampling types, output image dimensions, and seed values, and outputs an image file based on the model's interpretation of the prompt.
+
+
+### Runtime requirements
+
+The software can run on most consumer hardware equipped with a modest GPU. This marked a departure from previous proprietary text-to-image models such as DALL-E and Midjourney which were accessible only via cloud services.
+
+
+### Architecture
+
+Stable Diffusion is a form of diffusion model (DM). Introduced in 2015, diffusion models are trained with the objective of removing successive applications of Gaussian noise to training images, and can be thought of as a sequence of denoising autoencoders. Stable Diffusion uses a variant known as a "latent diffusion model" (LDM) developed by researchers at LMU Munich. Rather than learning to denoise image data (in "pixel space"), an autoencoder is trained to transform images into a lower-dimensional latent space. 
+
+
+### Denoising conditioning
+
+The denoising step may be conditioned on a string of text, an image, or some other data. An encoding of the conditioning data is exposed to the denoising U-Nets via a cross-attention mechanism. For conditioning on text, a transformer language model was trained to encode text prompts.
+
+
+### Sizing
+
+The Stable Diffusion model is trained on a dataset consisting of 512×512 resolution images, meaning that txt2img output images are optimally configured to be generated at 512×512 resolution as well, and deviating from this size can result in poor quality generation outputs.
+
+
+### License
+
+Stable Diffusion makes its source code available, along with pre-trained weights. Its license prohibits certain use cases, including crime, libel, harassment, doxxing, exploiting minors, medical advice, legal obligations, and more.
+
+
+### Training
+
+Stable Diffusion was trained on pairs of images and captions taken from LAION-5B, a publically available dataset derived from Common Crawl data scraped from the web. 
+
+The model was initially trained on a large subset of LAION-5B. The model was then trained on a subset of 600 million captioned images which an AI predicted that humans would give a score of at least 5 out of 10 when asked to rate how much they liked them, and which were higher-resolution, and which were evaluated as non-watermarked. 
+
+The model was trained using 256 Nvidia A100 GPUs on Amazon Web Services for a total of 150,000 GPU-hours, at a cost of $600,000.
+
+
+## About the author
+
+Joel Parker Henderson is a software developer, technology leader, and open source creator.
+
+Joel studied cognitive computer science, including artifical intellegence, machine learning, and neural networks.
+
+Joel is based in California.
+
+
+### Connect
 
 LinkedIn: https://linkedin.com/in/joelparkerhenderson
 
 GitHub: https://github.com/joelparkerhenderson
 
 Twitter: https://twitter.com/joel_henderson
+
+Gumroad: https://joelparkerhenderson.gumroad.com
