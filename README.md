@@ -30,14 +30,14 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/robots-celebrating-a-birthday-party"><img loading="lazy" width="30%" src="groups/robots-celebrating-a-birthday-party/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/robots-celebrating-a-birthday-party/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/robots-celebrating-a-birthday-party/3.png"></a>
 
 
-### [Surrealist space creatures](groups/surrealist-space-creatures)
-
-<a href="groups/surrealist-space-creatures"><img loading="lazy" width="30%" src="groups/surrealist-space-creatures/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/surrealist-space-creatures/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/surrealist-space-creatures/3.png"></a>
-
-
 ### [Comic book superhero battling evil](groups/comic-book-superhero-battling-evil)
 
 <a href="groups/comic-book-superhero-battling-evil"><img loading="lazy" width="30%" src="groups/comic-book-superhero-battling-evil/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/comic-book-superhero-battling-evil/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/comic-book-superhero-battling-evil/3.png"></a>
+
+
+### [Redhead goddess with poodle in the style of Klimt](groups/redhead-goddess-with-poodle-in-the-style-of-klimt)
+
+<a href="groups/redhead-goddess-with-poodle-in-the-style-of-klimt"><img loading="lazy" width="30%" src="groups/redhead-goddess-with-poodle-in-the-style-of-klimt/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/redhead-goddess-with-poodle-in-the-style-of-klimt/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/redhead-goddess-with-poodle-in-the-style-of-klimt/3.png"></a>
 
 
 ### [Flying dragon breathing fire](groups/flying-dragon-breathing-fire)
@@ -218,6 +218,11 @@ Want to see more? Click or tap on any headline or image.
 ### [Surrealist ice creatures](groups/surrealist-ice-creatures)
 
 <a href="groups/surrealist-ice-creatures"><img loading="lazy" width="30%" src="groups/surrealist-ice-creatures/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/surrealist-ice-creatures/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/surrealist-ice-creatures/3.png"></a>
+
+
+### [Surrealist space creatures](groups/surrealist-space-creatures)
+
+<a href="groups/surrealist-space-creatures"><img loading="lazy" width="30%" src="groups/surrealist-space-creatures/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/surrealist-space-creatures/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/surrealist-space-creatures/3.png"></a>
 
 
 ## Animal in the style of an artist
@@ -474,6 +479,11 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/maya-mythology-illustration"><img loading="lazy" width="30%" src="groups/maya-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/maya-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/maya-mythology-illustration/3.png"></a>
 
 
+### [Mesoamerican mythology illustration](groups/mesoamerican-mythology-illustration)
+
+<a href="groups/mesoamerican-mythology-illustration"><img loading="lazy" width="30%" src="groups/mesoamerican-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/mesoamerican-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/mesoamerican-mythology-illustration/3.png"></a>
+
+
 ### [Native American mythology illustration](groups/native-american-mythology-illustration)
 
 <a href="groups/native-american-mythology-illustration"><img loading="lazy" width="30%" src="groups/native-american-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/native-american-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/native-american-mythology-illustration/3.png"></a>
@@ -612,9 +622,19 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/delicious-lunch-with-healthy-food"><img loading="lazy" width="30%" src="groups/delicious-lunch-with-healthy-food/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-lunch-with-healthy-food/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-lunch-with-healthy-food/3.png"></a>
 
 
+### [Delicious picnic with outdoorsy food](groups/delicious-picnic-with-outdoorsy-food)
+
+<a href="groups/delicious-picnic-with-outdoorsy-food"><img loading="lazy" width="30%" src="groups/delicious-picnic-with-outdoorsy-food/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-picnic-with-outdoorsy-food/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-picnic-with-outdoorsy-food/3.png"></a>
+
+
 ### [Delicious dessert with tempting food](groups/delicious-dessert-with-tempting-food)
 
 <a href="groups/delicious-dessert-with-tempting-food"><img loading="lazy" width="30%" src="groups/delicious-dessert-with-tempting-food/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-dessert-with-tempting-food/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-dessert-with-tempting-food/3.png"></a>
+
+
+### [Delicious wine with candlelight food](groups/delicious-wine-with-candlelight-food)
+
+<a href="groups/delicious-wine-with-candlelight-food"><img loading="lazy" width="30%" src="groups/delicious-wine-with-candlelight-food/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-wine-with-candlelight-food/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/delicious-wine-with-candlelight-food/3.png"></a>
 
 
 ## Miscellaneous

@@ -1,12 +1,12 @@
 ---
 title: "Stable Diffusion Image Prompt Gallery Book"
 author: "Joel Parker Henderson (joel@joelparkerhenderson.com)"
-date: "2022-09-29"
+date: "2022-10-01"
 ---
 
 # Welcome to Stable Diffusion
 
-![](build/cover.png)
+![](build/book-montage-cover.png)
 
 
 ## What is Stable Diffusion?
@@ -66,15 +66,13 @@ This section uses these image prompts:
 
 * Lucy in the sky with diamonds
 
-* Animal in the style of Kehinde Wiley
-
 * Robots celebrating a birthday party
-
-* Surrealist space creatures
 
 * Comic book superhero battling evil
 
 * Mermaid and underwater palace
+
+* Redhead goddess with poodle in the style of Klimt
 
 * Flying dragon breathing fire
 
@@ -85,22 +83,10 @@ This section uses these image prompts:
 ![](build/groups/lucy-in-the-sky-with-diamonds-the-beatles/montage-stack-2.png)
 
 
-## Animal in the style of Kehinde Wiley
-
-![](build/groups/animal-in-the-style-of-kehinde-wiley/montage-stack-1.png)
-![](build/groups/animal-in-the-style-of-kehinde-wiley/montage-stack-2.png)
-
-
 ## Robots celebrating a birthday party
 
 ![](build/groups/robots-celebrating-a-birthday-party/montage-stack-1.png)
 ![](build/groups/robots-celebrating-a-birthday-party/montage-stack-2.png)
-
-
-## Surrealist space creatures
-
-![](build/groups/surrealist-space-creatures/montage-stack-1.png)
-![](build/groups/surrealist-space-creatures/montage-stack-2.png)
 
 
 ## Comic book superhero battling evil
@@ -115,11 +101,16 @@ This section uses these image prompts:
 ![](build/groups/mermaid-and-underwater-palace/montage-stack-2.png)
 
 
+## Redhead goddess with poodle in the style of Klimt
+
+![](build/groups/redhead-goddess-with-poodle-in-the-style-of-klimt/montage-stack-1.png)
+![](build/groups/redhead-goddess-with-poodle-in-the-style-of-klimt/montage-stack-2.png)
+
+
 ## Flying dragon breathing fire
 
 ![](build/groups/flying-dragon-breathing-fire/montage-stack-1.png)
 ![](build/groups/flying-dragon-breathing-fire/montage-stack-2.png)
-
 
 
 # Song mixing
@@ -333,6 +324,8 @@ This section uses these image prompts:
 
 * Surrealist ice creatures
 
+* Surrealist space creatures
+
 
 ## Surrealist sea creatures
 
@@ -370,6 +363,12 @@ This section uses these image prompts:
 ![](build/groups/surrealist-ice-creatures/montage-stack-2.png)
 
 
+## Surrealist space creatures
+
+![](build/groups/surrealist-space-creatures/montage-stack-1.png)
+![](build/groups/surrealist-space-creatures/montage-stack-2.png)
+
+
 # Animal in the style of an artist
 
 This section shows images in the style of many professional artists. The images show how randomly-chosen animals can look when generated in the style of the artist. 
@@ -400,8 +399,6 @@ This section uses the image prompts "animal in the style of" with these artists'
 * Frida Kahlo
 
 * Georgia O'Keeffe
-
-* Gustav Klimt
 
 * etc.
 
@@ -518,6 +515,12 @@ This section uses the image prompts "animal in the style of" with these artists'
 
 ![](build/groups/animal-in-the-style-of-josephine-wall/montage-stack-1.png)
 ![](build/groups/animal-in-the-style-of-josephine-wall/montage-stack-2.png)
+
+
+## Kehinde Wiley
+
+![](build/groups/animal-in-the-style-of-kehinde-wiley/montage-stack-1.png)
+![](build/groups/animal-in-the-style-of-kehinde-wiley/montage-stack-2.png)
 
 
 ## Leonardo da Vinci
@@ -665,8 +668,6 @@ This section uses these image prompts:
 
 * Japanese mythology illustration
 
-* Maya mythology illustration
-
 * etc.
 
 
@@ -752,6 +753,12 @@ This section uses these image prompts:
 
 ![](build/groups/native-american-mythology-illustration/montage-stack-1.png)
 ![](build/groups/native-american-mythology-illustration/montage-stack-2.png)
+
+
+## Mesoamerican mythology illustration
+
+![](build/groups/mesoamerican-mythology-illustration/montage-stack-1.png)
+![](build/groups/mesoamerican-mythology-illustration/montage-stack-2.png)
 
 
 ## Norse mythology illustration
@@ -1049,7 +1056,11 @@ This section uses these image prompts:
 
 * Delicious lunch with healthy food
 
+* Delicious picnic with outdoorsy food
+
 * Delicious dessert with tempting food
+
+* Delicious wine with candlelight food
 
 
 ## Delicious breakfast with vegan food
@@ -1064,10 +1075,22 @@ This section uses these image prompts:
 ![](build/groups/delicious-lunch-with-healthy-food/montage-stack-2.png)
 
 
+## Delicious picnic with outdoorsy food
+
+![](build/groups/delicious-picnic-with-outdoorsy-food/montage-stack-1.png)
+![](build/groups/delicious-picnic-with-outdoorsy-food/montage-stack-2.png)
+
+
 ## Delicious dessert with tempting food
 
 ![](build/groups/delicious-dessert-with-tempting-food/montage-stack-1.png)
 ![](build/groups/delicious-dessert-with-tempting-food/montage-stack-2.png)
+
+
+## Delicious wine with candlelight food
+
+![](build/groups/delicious-wine-with-candlelight-food/montage-stack-1.png)
+![](build/groups/delicious-wine-with-candlelight-food/montage-stack-2.png)
 
 
 # Miscellaneous
@@ -1187,12 +1210,12 @@ Alexander Calder (1898–1976) was an American sculptor known both for his innov
 
 ### Alma Thomas
 
-Alma Thomas (1891–1978) was an African-American artist and teacher who lived and worked in Washington, D.C., and is now recognized as a major American painter of the 20th century. Thomas is best known for the "exuberant", colorful, abstract paintings that she created after a 35-year career teaching art. Thomas is considered a member of the Washington Color School of artists and an Expressionist. She achieved success as an African-American female artist despite the segregation and prejudice of her time.
+Alma Thomas (1891–1978) was an African-American artist and teacher who lived and worked in Washington, D.C., and is now recognized as a major American painter of the 20th century. Thomas is known for the "exuberant", colorful, abstract paintings that she created after a 35-year career teaching art. Thomas is considered a member of the Washington Color School and an Expressionist. She achieved success despite the segregation and prejudice of her time.
 
 
 ### Amrita Sher-Gil
 
-Amrita Sher-Gil (1913–1941) was a Hungarian-Indian painter. She has been called "one of the greatest avant-garde women artists of the early 20th century" and a pioneer in modern Indian art. She started art lessons at the age of eight, and gained recognition at the age of 19. Sher-Gil depicted everyday life of the people in her paintings. She traveled throughout her life to various countries including Turkey, France, and India, deriving heavily from precolonial Indian art styles and its current culture.
+Amrita Sher-Gil (1913–1941) was a Hungarian-Indian painter. She has been called "one of the greatest avant-garde women artists of the early 20th century" and a pioneer in modern Indian art. She started art lessons at age 8, and gained recognition at age 19. She depicted everyday life of people. She traveled throughout her life, including to Turkey, France, and India, deriving from precolonial Indian art styles and its current culture.
 
 
 ### Artemisia Gentileschi
@@ -1273,12 +1296,12 @@ Johannes Vermeer (1632–1675) was a Dutch Baroque Period painter who specialize
 
 ### Josephine Wall
 
-Josephine Wall
+Josephine Wall (1947–) is an English fantasy artist and sculptor. She studied at Bournemouth College and worked at Poole Pottery as a designer and painter of Delphis Ware. Her pottery figures include characters from Tolkien's The Lord of the Rings and mythological creatures. Her paintings are inspired by Arthur Rackham, surrealist artists such as Magritte and Dalí, and the romanticism of the pre-Raphaelites.
 
 
 ### Kehinde Wiley
 
-Kehinde Wiley
+Kehinde Wiley (1977–) is an African-American portrait painter based in New York City, who is known for his highly naturalistic paintings of Black people, frequently referencing the work of Old Master paintings. Wiley creates a fusion of period styles and influences, ranging from French Rococo, Islamic architecture, and West African textile design, to urban hip hop. Wiley depicts his slightly larger than life-size figures in a heroic manner, giving them poses that connote power and spiritual awakening. 
 
 
 ### Leonardo da Vinci
@@ -1293,7 +1316,7 @@ Leonora Carrington (1917–2011) was a British-born Mexican artist, surrealist p
 
 ### Louise Bourgeois
 
-Louise Bourgeois
+Louise Bourgeois (1911–2010) was a French-American artist. She is best known for her large-scale sculpture and installation art, and was also a prolific painter and printmaker. She explored domesticity and the family, sexuality and the body, and death and the unconscious. These themes connect to events from her childhood which she considered to be a therapeutic process. She exhibited with the Abstract Expressionists and her work has much in common with Surrealism and Feminist art.
 
 
 ### Mary Cassatt
@@ -1303,7 +1326,7 @@ Mary Cassatt (1844-1926) was an American painter and printmaker. She was born in
 
 ### Norman Rockwell
 
-Norman Rockwell
+Norman Rockwell (1894–1978) was an American painter and illustrator. His works have a broad popular appeal in the United States for their reflection of the country's culture. Rockwell is most famous for the cover illustrations of everyday life he created for The Saturday Evening Post magazine over nearly five decades. In his later years, Rockwell began receiving more attention as a painter when he chose more serious subjects such as the series on racism for Look magazine.
 
 
 ### Pablo Picasso
@@ -1313,12 +1336,12 @@ Pablo Picasso (1881–1973) was a Spanish painter, sculptor, printmaker, ceramic
 
 ### Pan Yuliang
 
-Pan Yuliang
+Pan Yuliang (1895–1977) was a Chinese painter, renowned as the first woman in China to paint in the Western style. She studied in Shanghai and Paris. Her modernist works drew severe criticism in China during the 1930s, and Pan returned to Paris in 1937 to live and work for the next 40 years. She taught at the École des Beaux Arts. Her art evolved within the flux of transformations where conflicting dichotomies of East and West, tradition and modernity, male chauvinism and emerging feminism co-existed.
 
 
 ### Roy Lichtenstein
 
-Roy Lichtenstein
+Roy Lichtenstein (1923–1997) was an American pop artist. During the 1960s, along with Andy Warhol, Jasper Johns, and James Rosenquist among others, he became a leading figure in the new art movement. His work defined the premise of pop art through parody. His work was influenced by popular advertising and the comic book style. His artwork was considered to be "disruptive". He described pop art as "not 'American' painting but actually industrial painting".
 
 
 ### Salvador Dalí
@@ -1333,7 +1356,7 @@ Tamara de Łempicka (1898–1980) was a Polish painter who spent her working lif
 
 ### Thomas Kinkade
 
-Thomas Kinkade
+Thomas Kinkade (1958–2012) was an American painter of popular realistic, pastoral, and idyllic subjects. He achieved success during his lifetime with the mass marketing of his work. Kinkade described himself as a "Painter of Light". Recurring features are glowing colors and pastel colors. Rendered with idealistic values of American scene painting, his works often portray bucolic and idyllic settings such as gardens, streams, stone cottages, lighthouses and Main Streets.
 
 
 ### Vincent van Gogh
@@ -1353,7 +1376,7 @@ Australian Aboriginal religion and mythology is the sacred spirituality represen
 
 ### Arthurian
 
-Arthurian
+Arthurian legends are about King Arthur (Welsh: Brenin Arthur, Cornish: Arthur Gernow, Breton: Roue Arzhur). According to medieval histories and romances, Arthur was leader of the Celtic Britons in battles against Saxon invaders. Arthur is a central figure in the legends making up the Matter of Britain. Arthur appears either as a great warrior defending Britain from human and supernatural enemies or as a magical figure of folklore, sometimes associated with the Welsh otherworld Annwn. The legends often include Merlin the magician, Guinevere the queen, Excalibur the sword, and the Knights of the Round Table.
 
 
 ### Aztec
@@ -1411,6 +1434,11 @@ Japanese mythology is a collection of traditional stories, folktales, and belief
 Maya mythology is part of Mesoamerican mythology and comprises all of the Maya tales in which personified forces of nature, deities, and the heroes interacting with these play the main roles. The myths of the Pre-Hispanic era have to be reconstructed from iconography. In Maya narrative, the origin of many natural and cultural phenomena is set out, often with the moral aim of defining the ritual relationship between humankind and its environment. There are explanations about the origin of the heavenly bodies; the mountain landscape; clouds, rain, thunder and lightning; wild and tame animals; the colors of the maize; diseases and their curative herbs; agricultural instruments, etc.
 
 
+### Mesoamerican
+
+Mesoamerican mythologies include religions, shamanistic elements, and complex polytheistic beliefs. The great breadth is due to the incorporation of ideological and religious elements from the first primitive religion of Fire, Earth, Water and Nature. Astral divinities (the sun, stars, constellations, and Venus) are represented in anthropomorphic, zoomorphic, and anthropozoomorphic ways.There is an emphasis on dualism: the positive, exemplified by light, the masculine, force, war, the sun, etc.; and the negative, exemplified by darkness, the feminine, repose, peace, the moon, etc.
+
+
 ### Native American
 
 Native American religions are the spiritual practices of the Native Americans in the United States. Ceremonial ways can vary widely and are based on the differing histories and beliefs of individual nations, tribes and bands. Early European explorers describe individual Native American tribes and even small bands as each having their own religious practices. Theology may be monotheistic, polytheistic, henotheistic, animistic, shamanistic, pantheistic or any combination thereof, among others. Traditional beliefs are usually passed down in the forms of oral histories, stories, allegories, and principles.
@@ -1423,12 +1451,12 @@ Norse mythology consists of tales of various deities, beings, and heroes. The my
 
 ### Polynesian
 
-Polynesian
+Polynesian mythology, also known as The Polynesian narrative, encompasses the oral traditions of the people of a grouping of Pacific Ocean island archipelagos in the Polynesian Triangle. In some myths, the god of the sea and of fishing is of great importance. There is often a story of the marriage between Sky and Earth. There are stories of islands pulled up from the bottom of the sea by a magic fishhook or thrown down from heaven. There are stories of voyages, migrations, seductions, and battles. There are stories about a trickster named Maui, and a beautiful goddess/ancestress Hina or Sina.
 
 
 ### Swedish
 
-Swedish
+Swedish mythology is related to Norse mythology. Swedes (Swedish: svenskar) are a North Germanic ethnic group native to the Nordic region, primarily their nation state of Sweden. Swedes enter written proto-history as a powerful tribe (distinguished for their arms and men, and for their powerful fleets or longships. Which kings (kuningaz) ruled these Suiones is unknown, but mythology presents a long line of legendary and semi-legendary kings going back to the last centuries BC. Later, the Swedish Viking Age lasted roughly between the 8th and 11th centuries. The adventures of these Swedish Vikings are commemorated on many runestones in Sweden.
 
 
 ### Vodun
@@ -1436,9 +1464,9 @@ Swedish
 Vodun means spirit in the Fon, Gun and Ewe languages; also spelled Vodon, Vodoun, Vodou, Vudu, Voudou, Voodoo, etc.. Vodun is a religion practiced by the Aja, Ewe, and Fon peoples of Benin, Togo, Ghana, and Nigeria. Elements of the West African religion survived slavery and evolved into religions in the New World among the African diaspora in the Americas. Vodun cosmology centers around the vodun spirits and other elements of divine essence that govern the Earth, a hierarchy that range in power from major deities governing the forces of nature and human society to the spirits of individual streams, trees, and rocks, as well as dozens of ethnic vodun, defenders of a certain clan, tribe, or nation.
 
 
-## About Stable Diffusion
+## About the software
 
-This information is thanks to [Wikipedia](https://wikipedia.org/Stable_Diffusion).
+The Stable diffusion software information is thanks to [Wikipedia](https://wikipedia.org/Stable_Diffusion).
 
 
 ### Introduction
@@ -1455,7 +1483,7 @@ The text to image sampling script within Stable Diffusion, known as "txt2img", c
 
 ### Runtime requirements
 
-The software can run on most consumer hardware equipped with a modest GPU. This marked a departure from previous proprietary text-to-image models such as DALL-E and Midjourney which were accessible only via cloud services.
+The software can run on most consumer hardware equipped with a modest GPU. This was a departure from proprietary text-to-image models such as DALL-E and Midjourney which were accessible only via cloud services.
 
 
 ### Architecture
@@ -1480,11 +1508,38 @@ Stable Diffusion makes its source code available, along with pre-trained weights
 
 ### Training
 
-Stable Diffusion was trained on pairs of images and captions taken from LAION-5B, a publically available dataset derived from Common Crawl data scraped from the web. 
+Stable Diffusion was trained on pairs of images and captions taken from LAION-5B, a publically available dataset derived from Common Crawl data scraped from the web. The model was trained using 256 Nvidia A100 GPUs on Amazon Web Services for a total of 150,000 GPU-hours, at a cost of $600,000.
 
-The model was initially trained on a large subset of LAION-5B. The model was then trained on a subset of 600 million captioned images which an AI predicted that humans would give a score of at least 5 out of 10 when asked to rate how much they liked them, and which were higher-resolution, and which were evaluated as non-watermarked. 
+The model was initially trained on a large subset of LAION-5B. The model was then trained on a subset of 600 million captioned images which an AI predicted that humans would give a score of at least 5 out of 10 when asked to rate how much they liked them, and which were higher-resolution, and evaluated as non-watermarked. 
 
-The model was trained using 256 Nvidia A100 GPUs on Amazon Web Services for a total of 150,000 GPU-hours, at a cost of $600,000.
+
+
+## About the company
+
+The Stability.ai company information is thanks to the [Stability.ai website](https://stability.ai).
+
+
+### Stability AI is building open AI tools that will let us reach our potential
+
+We’re a company of builders who care deeply about real-world implications and applications. Many of our most considerable advances grow from working across multiple teams. We are unafraid to go against established norms and explore creativity.
+
+Our primary drive is to generate breakthrough ideas and convert them into solutions. We respect innovation over tradition. We trust that our differences make us more robust, and so we seek reason within every difference of perspective.
+
+
+### About Stability.ai developers
+
+The Stability.ai developer communities have over 20,000 members
+
+Our vibrant communities consist of experts, leaders and partners across the globe. They are developing cutting-edge open AI models for Image, Language, Audio, Video, 3D and Biology.
+
+
+### Connect
+
+https://stability.ai
+
+https://www.linkedin.com/company/stability-ai/
+
+https://twitter.com/stabilityai
 
 
 ## About the author
