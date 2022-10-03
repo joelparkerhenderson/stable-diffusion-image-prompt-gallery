@@ -608,6 +608,8 @@ This section uses these image prompts:
 
 * UFO alien arrival
   
+* Spaceship flying through asteroids
+
 
 ## Space exploration with rocket ship and alien
 
@@ -631,6 +633,12 @@ This section uses these image prompts:
 
 ![](build/groups/ufo-alien-arrival/montage-stack-1.png)
 ![](build/groups/ufo-alien-arrival/montage-stack-2.png)
+
+
+## Spaceship flying through asteroids
+
+![](build/groups/spaceship-flying-through-asteroids/montage-stack-1.png)
+![](build/groups/spaceship-flying-through-asteroids/montage-stack-2.png)
 
 
 # Mythology illustration

@@ -411,6 +411,11 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/ufo-alien-arrival"><img loading="lazy" width="30%" src="groups/ufo-alien-arrival/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/ufo-alien-arrival/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/ufo-alien-arrival/3.png"></a>
 
 
+### [Spaceship flying through asteroids](groups/spaceship-flying-through-asteroids)
+
+<a href="groups/spaceship-flying-through-asteroids"><img loading="lazy" width="30%" src="groups/spaceship-flying-through-asteroids/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/spaceship-flying-through-asteroids/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/spaceship-flying-through-asteroids/3.png"></a>
+
+
 ## Mythology illustration
 
 
