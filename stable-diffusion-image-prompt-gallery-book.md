@@ -757,6 +757,12 @@ This section uses these image prompts:
 ![](build/groups/hindu-mythology-illustration/montage-stack-2.png)
 
 
+## Inca mythology illustration
+
+![](build/groups/inca-mythology-illustration/montage-stack-1.png)
+![](build/groups/inca-mythology-illustration/montage-stack-2.png)
+
+
 ## Inuit mythology illustration
 
 ![](build/groups/inuit-mythology-illustration/montage-stack-1.png)
@@ -1470,6 +1476,11 @@ Greek mythology is the body of myths originally told by the ancient Greeks. Thes
 ### Hindu
 
 Hindu mythology is the body of myths and literature attributed to, and espoused by, the adherents of the Hindu religion, found in Hindu texts such as the Vedic literature, epics like Mahabharata and Ramayana,[2] the Puranas, and regional literature like the Tamil Periya Puranam and Naalayira Divya Prabandham, and the Mangal Kavya of Bengal. Hindu myths are also found in widely translated popular texts such as the fables of the Panchatantra and the Hitopadesha, as well as in Southeast Asian texts.
+
+
+### Inca
+
+Inca mythology or religion includes many stories and legends that attempt to explain or symbolize Inca beliefs. The Incas permitted the cultures they integrated into their empire to keep their individual religions. For example the Runa (Quechua speakers') belief systems were integrated with their view of the cosmos. Stories depict the movements of constellations, planets, and planetary formations, which are connected to agricultural cycles, annual cycles, 800-year cycles. This timekeeping ensured cultural transmission of key information, in spite of regime change or social catastrophes.
 
 
 ### Inuit
