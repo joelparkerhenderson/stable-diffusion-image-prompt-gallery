@@ -773,6 +773,12 @@ This section uses these image prompts:
 ![](build/groups/swedish-mythology-illustration/montage-stack-2.png)
 
 
+## Vedic mythology illustration
+
+![](build/groups/vedic-mythology-illustration/montage-stack-1.png)
+![](build/groups/vedic-mythology-illustration/montage-stack-2.png)
+
+
 ## Vodun mythology illustration
 
 ![](build/groups/vodun-mythology-illustration/montage-stack-1.png)
@@ -1457,6 +1463,11 @@ Polynesian mythology, also known as The Polynesian narrative, encompasses the or
 ### Swedish
 
 Swedish mythology is related to Norse mythology. Swedes (Swedish: svenskar) are a North Germanic ethnic group native to the Nordic region, primarily their nation state of Sweden. Swedes enter written proto-history as a powerful tribe (distinguished for their arms and men, and for their powerful fleets or longships. Which kings (kuningaz) ruled these Suiones is unknown, but mythology presents a long line of legendary and semi-legendary kings going back to the last centuries BC. Later, the Swedish Viking Age lasted roughly between the 8th and 11th centuries. The adventures of these Swedish Vikings are commemorated on many runestones in Sweden.
+
+
+### Vedic
+
+The historical Vedic religion (also known as Vedicism, Vedism or ancient Hinduism), and subsequently Brahmanism, constituted the religious ideas and practices among some of the Indo-Aryan peoples of northwest Indian Subcontinent. Specific rituals and sacrifices of the Vedic religion include, among others: the Soma rituals; Fire rituals involving oblations (havir); and the Ashvamedha (horse sacrifice). The rites of grave burials as well as cremation are seen since the Rigvedic period. Deities emphasized in the Vedic religion include Dyaus, Indra, Agni, Rudra and Varuna, and important ethical concepts include satya and ṛta.
 
 
 ### Vodun
