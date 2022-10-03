@@ -499,6 +499,11 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/swedish-mythology-illustration"><img loading="lazy" width="30%" src="groups/swedish-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/swedish-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/swedish-mythology-illustration/3.png"></a>
 
 
+### [Tibetan mythology illustration](groups/tibetan-mythology-illustration)
+
+<a href="groups/tibetan-mythology-illustration"><img loading="lazy" width="30%" src="groups/tibetan-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/tibetan-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/tibetan-mythology-illustration/3.png"></a>
+
+
 ### [Vedic mythology illustration](groups/vedic-mythology-illustration)
 
 <a href="groups/vedic-mythology-illustration"><img loading="lazy" width="30%" src="groups/vedic-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/vedic-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/vedic-mythology-illustration/3.png"></a>

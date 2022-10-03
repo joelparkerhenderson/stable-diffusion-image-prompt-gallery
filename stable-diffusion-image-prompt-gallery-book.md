@@ -773,6 +773,12 @@ This section uses these image prompts:
 ![](build/groups/swedish-mythology-illustration/montage-stack-2.png)
 
 
+## Tibetan mythology illustration
+
+![](build/groups/tibetan-mythology-illustration/montage-stack-1.png)
+![](build/groups/tibetan-mythology-illustration/montage-stack-2.png)
+
+
 ## Vedic mythology illustration
 
 ![](build/groups/vedic-mythology-illustration/montage-stack-1.png)
@@ -1463,6 +1469,11 @@ Polynesian mythology, also known as The Polynesian narrative, encompasses the or
 ### Swedish
 
 Swedish mythology is related to Norse mythology. Swedes (Swedish: svenskar) are a North Germanic ethnic group native to the Nordic region, primarily their nation state of Sweden. Swedes enter written proto-history as a powerful tribe (distinguished for their arms and men, and for their powerful fleets or longships. Which kings (kuningaz) ruled these Suiones is unknown, but mythology presents a long line of legendary and semi-legendary kings going back to the last centuries BC. Later, the Swedish Viking Age lasted roughly between the 8th and 11th centuries. The adventures of these Swedish Vikings are commemorated on many runestones in Sweden.
+
+
+### Tibetan 
+
+Tibetan mythology stems from Tibetan culture as well as religious mythology from both Tibetan Buddhism and Bön Religion. These myths are often passed down orally, through rituals or through traditional art like sculptures or cave paintings. Many of the myths are based on its unique landscape being located atop a plateau and amongst many mountains. Myths also feature the Five Clawed Great Eagle of the Sky, mountain gods, snow creatures such as white lions and the Yeti, ghosts and spirits, kings and heroes.
 
 
 ### Vedic
