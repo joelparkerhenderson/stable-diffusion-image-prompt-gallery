@@ -666,6 +666,8 @@ This section uses these image prompts:
 
 * Celtic mythology illustration
 
+* Cherokee mythology illustration
+
 * Chinese mythology illustration
 
 * Christian mythology illustration
@@ -673,8 +675,6 @@ This section uses these image prompts:
 * Egyptian mythology illustration
 
 * Greek mythology illustration
-
-* Hindu mythology illustration
 
 * etc.
 
@@ -719,6 +719,12 @@ This section uses these image prompts:
 
 ![](build/groups/celtic-mythology-illustration/montage-stack-1.png)
 ![](build/groups/celtic-mythology-illustration/montage-stack-2.png)
+
+
+## Cherokee mythology illustration
+
+![](build/groups/cherokee-mythology-illustration/montage-stack-1.png)
+![](build/groups/cherokee-mythology-illustration/montage-stack-2.png)
 
 
 ## Chinese mythology illustration
@@ -1434,6 +1440,11 @@ Buddhist traditions have created and maintained a vast body of mythological lite
 ### Celtic
 
 Celtic mythology is the body of myths belonging to the Celtic peoples. Like other Iron Age Europeans, Celtic peoples followed a polytheistic religion, having many gods and goddesses. The supernatural race called the Tuatha Dé Danann are believed to be based on the main Celtic gods of Ireland, while many Welsh characters belong either to the Plant Dôn ("Children of Dôn") and the Plant Llyr ("Children of Llyr"). One common figure is the sovereignty goddess, who represents the land. The Otherworld is also a common motif; a parallel realm of the supernatural races, which is visited by some mythical heroes. Celtic myth influenced later Arthurian legend.
+
+
+### Cherokee
+
+Cherokee spiritual beliefs are held in common among the Cherokee people – Native American peoples who are indigenous to the Southeastern Woodlands. Cherokee cosmology includes a conception of the universe being composed of three connected worlds: the Upper World and the Under World, which are the domains of the spirits, and This World, where humans live. Plants, animals, and other features of the natural world such as rivers, mountains, caves and other formations on the earth all have spiritual powers and attributes. Humans live in coexistence with all of creation, and mediate between all worlds to balance them.
 
 
 ### Chinese
