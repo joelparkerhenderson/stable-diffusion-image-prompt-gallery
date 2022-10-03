@@ -1,6 +1,6 @@
 #!/bin/sh
 
-file="build/cover.png"
+file="build/book-montage-cover.png"
 if [ ! -f "$file" ]; then
     montage -tile 4x0 -geometry 640x448+1+1 -border 0 \
     groups/lucy-in-the-sky-with-diamonds-the-beatles/1.png \
@@ -17,3 +17,39 @@ if [ ! -f "$file" ]; then
     groups/surrealist-space-creatures/1.png \
     "$file"
 fi
+
+# file="build/book-montage-about-the-artists.png"
+# if [ ! -f "$file" ]; then
+#     montage -tile 4x0 -geometry 640x448+1+1 -border 0 \
+#     groups/animal-in-the-style-of-alma-thomas/1.png \
+#     groups/animal-in-the-style-of-amrita-sher-gil/1.png \
+#     groups/animal-in-the-style-of-artemisia-gentileschi/1.png \
+#     groups/animal-in-the-style-of-berthe-morisot/1.png \
+#     groups/animal-in-the-style-of-catrin-welz-stein/1.png \
+#     groups/animal-in-the-style-of-frida-kahlo/1.png \
+#     groups/animal-in-the-style-of-henry-ossawa-tanner/1.png \
+#     groups/animal-in-the-style-of-hilma-af-klint/1.png \
+#     groups/animal-in-the-style-of-jean-michel-basquiat/1.png \
+#     groups/animal-in-the-style-of-kehinde-wiley/1.png \
+#     groups/animal-in-the-style-of-pan-yuliang/1.png \
+#     groups/animal-in-the-style-of-tamara-de-lempicka/1.png \
+#     "$file"
+# fi
+
+# file="build/book-montage-about-the-mythologies.png"
+# if [ ! -f "$file" ]; then
+#     montage -tile 4x0 -geometry 640x448+1+1 -border 0 \
+#         groups/aboriginal-mythology-illustration/1.png \
+#         groups/bantu-mythology-illustration/1.png \
+#         groups/buddhist-mythology-illustration/1.png \
+#         groups/celtic-mythology-illustration/1.png \
+#         groups/egyptian-mythology-illustration/1.png \
+#         groups/hindu-mythology-illustration/1.png \
+#         groups/inuit-mythology-illustration/1.png \
+#         groups/japanese-mythology-illustration/1.png \
+#         groups/maya-mythology-illustration/1.png \
+#         groups/native-american-mythology-illustration/1.png \
+#         groups/polynesian-mythology-illustration/1.png \
+#         groups/vodun-mythology-illustration/1.png \
+#     "$file"
+# fi

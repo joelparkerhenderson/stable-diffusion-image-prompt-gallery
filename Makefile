@@ -1,4 +1,4 @@
-all: groups cover book
+all: groups book
 
 .PHONY: clean
 clean:
@@ -9,10 +9,7 @@ clean:
 groups:
 	bin/make-groups
 
-.PHONY: cover
-cover: groups
-	bin/make-cover
-
 .PHONY: book
-book: groups cover
+book: groups
+	bin/make-book-montage-images
 	bin/make-book
