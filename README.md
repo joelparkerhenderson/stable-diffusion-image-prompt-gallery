@@ -424,6 +424,11 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/aboriginal-mythology-illustration"><img loading="lazy" width="30%" src="groups/aboriginal-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/aboriginal-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/aboriginal-mythology-illustration/3.png"></a>
 
 
+### [Arabian mythology illustration](groups/arabian-mythology-illustration)
+
+<a href="groups/arabian-mythology-illustration"><img loading="lazy" width="30%" src="groups/arabian-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/arabian-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/arabian-mythology-illustration/3.png"></a>
+
+
 ### [Arthurian mythology illustration](groups/arthurian-mythology-illustration)
 
 <a href="groups/arthurian-mythology-illustration"><img loading="lazy" width="30%" src="groups/arthurian-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/arthurian-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/arthurian-mythology-illustration/3.png"></a>

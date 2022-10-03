@@ -654,6 +654,8 @@ This section uses these image prompts:
 
 * Aboriginal mythology illustration
 
+* Arabian mythology illustration
+
 * Arthurian mythology illustration
 
 * Aztec mythology illustration
@@ -674,8 +676,6 @@ This section uses these image prompts:
 
 * Hindu mythology illustration
 
-* Inuit mythology illustration
-
 * etc.
 
 
@@ -683,6 +683,12 @@ This section uses these image prompts:
 
 ![](build/groups/aboriginal-mythology-illustration/montage-stack-1.png)
 ![](build/groups/aboriginal-mythology-illustration/montage-stack-2.png)
+
+
+## Arabian mythology illustration
+
+![](build/groups/arabian-mythology-illustration/montage-stack-1.png)
+![](build/groups/arabian-mythology-illustration/montage-stack-2.png)
 
 
 ## Arthurian mythology illustration
@@ -1398,6 +1404,11 @@ This information about the mythologies is thanks to [Wikipedia](https://wikipedi
 ### Aboriginal
 
 Australian Aboriginal religion and mythology is the sacred spirituality represented in the stories performed by Aboriginal Australians within each of the language groups across Australia in their ceremonies. Aboriginal spirituality includes the Dreamtime (the Dreaming), songlines, and oral literature. Aboriginal spirituality often conveys descriptions of each group's local cultural landscape, adding meaning to the whole country's topography from oral history told by ancestors from some of the earliest recorded history.
+
+
+### Arabian
+
+Arabian polytheism, the dominant form of religion in pre-Islamic Arabia, was based on veneration of deities and spirits. Worship was directed to various gods and goddesses, including Hubal and the goddesses al-Lāt, al-‘Uzzā, and Manāt, at local shrines and temples such as the Kaaba in Mecca. Deities were venerated and invoked through a variety of rituals, including pilgrimages and divination, as well as ritual sacrifice. Different theories have been proposed regarding the role of Allah in Meccan religion. Many of the physical descriptions of the pre-Islamic gods are traced to idols, especially near the Kaaba.
 
 
 ### Arthurian
