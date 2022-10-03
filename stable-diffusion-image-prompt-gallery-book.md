@@ -666,6 +666,8 @@ This section uses these image prompts:
 
 * Chinese mythology illustration
 
+* Christian mythology illustration
+
 * Egyptian mythology illustration
 
 * Greek mythology illustration
@@ -673,8 +675,6 @@ This section uses these image prompts:
 * Hindu mythology illustration
 
 * Inuit mythology illustration
-
-* Japanese mythology illustration
 
 * etc.
 
@@ -719,6 +719,12 @@ This section uses these image prompts:
 
 ![](build/groups/chinese-mythology-illustration/montage-stack-1.png)
 ![](build/groups/chinese-mythology-illustration/montage-stack-2.png)
+
+
+## Christian mythology illustration
+
+![](build/groups/christian-mythology-illustration/montage-stack-1.png)
+![](build/groups/christian-mythology-illustration/montage-stack-2.png)
 
 
 ## Egyptian mythology illustration
@@ -1422,6 +1428,11 @@ Celtic mythology is the body of myths belonging to the Celtic peoples. Like othe
 ### Chinese
 
 Chinese mythology is mythology that has been passed down in oral form or recorded in literature in the geographic area now known as Greater China. Much of the mythology involves exciting stories full of fantastic people and beings, the use of magical powers, often taking place in an exotic mythological place or time. Many myths involve the creation and cosmology of the universe and its deities and inhabitants. Some mythology involves creation myths, the origin of things, people and culture. Many myths are oral associations with ritual acts, such as dances, ceremonies, and sacrifices.
+
+
+### Christian
+
+Christian mythology is the body of myths associated with Christianity. The term encompasses a broad variety of legends and narratives, especially those considered sacred narratives. Mythological themes and elements occur throughout Christian literature, including recurring myths such as ascending to a mountain, the axis mundi, myths of combat, descent into the Underworld, accounts of a dying-and-rising god, a flood myth, stories about the founding of a tribe or city, and myths about great heroes (or saints) of the past, paradises, and self-sacrifice. Various authors have also used it to refer to other mythological and allegorical elements found in the Bible.
 
 
 ### Egyptian
