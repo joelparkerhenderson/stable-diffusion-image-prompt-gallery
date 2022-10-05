@@ -499,6 +499,11 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/japanese-mythology-illustration"><img loading="lazy" width="30%" src="groups/japanese-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/japanese-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/japanese-mythology-illustration/3.png"></a>
 
 
+### [Jewish mythology illustration](groups/jewish-mythology-illustration)
+
+<a href="groups/jewish-mythology-illustration"><img loading="lazy" width="30%" src="groups/jewish-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/jewish-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/jewish-mythology-illustration/3.png"></a>
+
+
 ### [Maya mythology illustration](groups/maya-mythology-illustration)
 
 <a href="groups/maya-mythology-illustration"><img loading="lazy" width="30%" src="groups/maya-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/maya-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/maya-mythology-illustration/3.png"></a>

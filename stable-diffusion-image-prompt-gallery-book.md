@@ -775,6 +775,12 @@ This section uses these image prompts:
 ![](build/groups/japanese-mythology-illustration/montage-stack-2.png)
 
 
+## Jewish mythology illustration
+
+![](build/groups/jewish-mythology-illustration/montage-stack-1.png)
+![](build/groups/jewish-mythology-illustration/montage-stack-2.png)
+
+
 ## Maya mythology illustration
 
 ![](build/groups/maya-mythology-illustration/montage-stack-1.png)
@@ -1491,6 +1497,11 @@ Inuit religion is the shared spiritual beliefs and practices of the Inuit, an in
 ### Japanese
 
 Japanese mythology is a collection of traditional stories, folktales, and beliefs that emerged in the islands of the Japanese archipelago. Shinto and Buddhist traditions are the cornerstones of Japanese mythology. The history of thousands of years of contact with Korea, Ainu, and Okinawan myths are also key influences in Japanese mythology.Japanese myths are tied to the topography of the archipelago as well as agriculturally-based folk religion, and the Shinto pantheon holds countless kami (Japanese for "god(s)" or "spirits"). This article will discuss cosmogony, important deities, modern interpretations, cultural significance, and the influence of these myths.
+
+
+### Jewish
+
+Jewish mythology is the body of myths associated with Judaism. Elements of Jewish mythology have had a profound influence on Christian mythology and on Islamic mythology, as well as on world culture in general. Christian mythology directly inherited many of the narratives from the Jewish people, sharing in common the narratives from the Old Testament. Islamic mythology also shares many of the same stories; for instance, a creation-account spaced out over six periods, the legend of Abraham, the stories of Moses and the Israelites, and many more.
 
 
 ### Maya
