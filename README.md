@@ -499,6 +499,11 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/inuit-mythology-illustration"><img loading="lazy" width="30%" src="groups/inuit-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/inuit-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/inuit-mythology-illustration/3.png"></a>
 
 
+### [Islamic mythology illustration](groups/islamic-mythology-illustration)
+
+<a href="groups/islamic-mythology-illustration"><img loading="lazy" width="30%" src="groups/islamic-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/islamic-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/islamic-mythology-illustration/3.png"></a>
+
+
 ### [Japanese mythology illustration](groups/japanese-mythology-illustration)
 
 <a href="groups/japanese-mythology-illustration"><img loading="lazy" width="30%" src="groups/japanese-mythology-illustration/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/japanese-mythology-illustration/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/japanese-mythology-illustration/3.png"></a>

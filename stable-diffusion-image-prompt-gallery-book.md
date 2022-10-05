@@ -775,6 +775,12 @@ This section uses these image prompts:
 ![](build/groups/inuit-mythology-illustration/montage-stack-2.png)
 
 
+## Islamic mythology illustration
+
+![](build/groups/islamic-mythology-illustration/montage-stack-1.png)
+![](build/groups/islamic-mythology-illustration/montage-stack-2.png)
+
+
 ## Japanese mythology illustration
 
 ![](build/groups/japanese-mythology-illustration/montage-stack-1.png)
@@ -1503,6 +1509,11 @@ Inca mythology or religion includes many stories and legends that attempt to exp
 ### Inuit
 
 Inuit religion is the shared spiritual beliefs and practices of the Inuit, an indigenous people from Alaska, northern Canada, parts of Siberia and Greenland. Traditional Inuit religious practices include animism and shamanism, in which spiritual healers mediate with spirits. The Inuit cosmos is ruled by no one. There are no divine mother and father figures, no wind gods and solar creators, no eternal punishments, and no punishments for children or adults in the here and now. Traditional stories, rituals, and taboos of the Inuit are often precautions against dangers posed by their harsh Arctic environment.
+
+
+### Islamic
+
+Islamic mythology is the body of myths associated with Islam and the Quran. Islam is a religion that is more concerned with social order and law than with religious ritual or myths. Traditional narratives include a creation myth and a vision of afterlife, which Islam shares with the other Abrahamic religions, as well as the distinctively Islamic story of the Kaaba. Narratives include two key supernatural events: the divine revelation of the Quran and the Isra and Mi'raj — the night journey to Jerusalem followed by the ascension to the Seventh Heaven. The traditional biography of the Islamic prophet Muhammad, who plays a central role in Islamic teachings, is generally recognized as being largely historical in nature,
 
 
 ### Japanese
