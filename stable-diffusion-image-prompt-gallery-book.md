@@ -487,6 +487,12 @@ This section uses the image prompts "animal in the style of" with these artists'
 ![](build/groups/animal-in-the-style-of-henry-ossawa-tanner/montage-stack-2.png)
 
 
+## Hieronymus Bosch
+
+![](build/groups/animal-in-the-style-of-hieronymus-bosch/montage-stack-1.png)
+![](build/groups/animal-in-the-style-of-hieronymus-bosch/montage-stack-2.png)
+
+
 ## Hilma af Klint
 
 ![](build/groups/animal-in-the-style-of-hilma-af-klint/montage-stack-1.png)
@@ -1322,6 +1328,11 @@ Henri Matisse (1869–1954) was a French visual artist, known for both his use o
 ### Henry Ossawa Tanner
 
 Henry Ossawa Tanner (1859–1937) was an American artist and the first African-American painter to gain international acclaim. Tanner moved to Paris, France, in 1891 to study at the Académie Julian and gained acclaim in French artistic circles. After pursuing art on his own as a young man, Tanner enrolled at the Pennsylvania Academy of the Fine Arts in Philadelphia in 1879. The only black student, he became a favorite of the painter Thomas Eakins, who had recently started teaching there.
+
+
+### Hieronymus Bosch 
+
+Hieronymus Bosch (c.1450–1516) was a Dutch/Netherlandish painter from Brabant. He is one of the most notable representatives of the Early Netherlandish painting school. His work, generally oil on oak wood, mainly contains fantastic illustrations of religious concepts and narratives. Bosch is seen as a hugely individualistic painter with deep insight into humanity's deepest desires and deepest fears. 
 
 
 ### Hilma af Klint

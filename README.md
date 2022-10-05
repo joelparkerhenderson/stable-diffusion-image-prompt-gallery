@@ -298,6 +298,11 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/animal-in-the-style-of-henry-ossawa-tanner"><img loading="lazy" width="30%" src="groups/animal-in-the-style-of-henry-ossawa-tanner/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-henry-ossawa-tanner/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-henry-ossawa-tanner/3.png"></a>
 
 
+### [Hieronymus Bosch](groups/animal-in-the-style-of-hieronymus-bosch)
+
+<a href="groups/animal-in-the-style-of-hieronymus-bosch"><img loading="lazy" width="30%" src="groups/animal-in-the-style-of-hieronymus-bosch/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-hieronymus-bosch/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-hieronymus-bosch/3.png"></a>
+
+
 ### [Hilma af Klint](groups/animal-in-the-style-of-hilma-af-klint)
 
 <a href="groups/animal-in-the-style-of-hilma-af-klint"><img loading="lazy" width="30%" src="groups/animal-in-the-style-of-hilma-af-klint/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-hilma-af-klint/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/animal-in-the-style-of-hilma-af-klint/3.png"></a>
