@@ -29,7 +29,6 @@ Want to see more? Click or tap on any headline or image.
 
 <a href="groups/robots-celebrating-a-birthday-party"><img loading="lazy" width="30%" src="groups/robots-celebrating-a-birthday-party/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/robots-celebrating-a-birthday-party/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/robots-celebrating-a-birthday-party/3.png"></a>
 
-
 ### [Comic book superhero battling evil](groups/comic-book-superhero-battling-evil)
 
 <a href="groups/comic-book-superhero-battling-evil"><img loading="lazy" width="30%" src="groups/comic-book-superhero-battling-evil/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/comic-book-superhero-battling-evil/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/comic-book-superhero-battling-evil/3.png"></a>
@@ -111,9 +110,9 @@ Want to see more? Click or tap on any headline or image.
 <a href="groups/parrot-with-pretty-flowers-like-watercolor"><img loading="lazy" width="30%" src="groups/parrot-with-pretty-flowers-like-watercolor/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/parrot-with-pretty-flowers-like-watercolor/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/parrot-with-pretty-flowers-like-watercolor/3.png"></a>
 
 
-### [Ladybug with pretty flowers as cartoon](groups/ladybug-with-pretty-flowers-as-cartoon)
+### [Ladybug with pretty flowers as cartoon](groups/ladybug-with-pretty-flowers-like-cartoon)
 
-<a href="groups/ladybug-with-pretty-flowers-as-cartoon"><img loading="lazy" width="30%" src="groups/ladybug-with-pretty-flowers-as-cartoon/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/ladybug-with-pretty-flowers-as-cartoon/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/ladybug-with-pretty-flowers-as-cartoon/3.png"></a>
+<a href="groups/ladybug-with-pretty-flowers-like-cartoon"><img loading="lazy" width="30%" src="groups/ladybug-with-pretty-flowers-like-cartoon/1.png">&nbsp;<img loading="lazy" width="30%" src="groups/ladybug-with-pretty-flowers-like-cartoon/2.png">&nbsp;<img loading="lazy" width="30%" src="groups/ladybug-with-pretty-flowers-like-cartoon/3.png"></a>
 
 
 ## People dancing
