@@ -2,7 +2,7 @@
 
 file="build/book-montage-cover.png"
 if [ ! -f "$file" ]; then
-    montage -tile 4x0 -geometry 640x448+1+1 -border 0 \
+    montage -tile 3x0 -geometry 640x448+1+1 -border 0 \
     groups/lucy-in-the-sky-with-diamonds-the-beatles/1.png \
     groups/mermaid-and-underwater-palace/1.png \
     groups/animal-in-the-style-of-vincent-van-gogh/1.png \
@@ -15,6 +15,15 @@ if [ ! -f "$file" ]; then
     groups/mirrorball-wonderland-taylor-swift/1.png \
     groups/person-with-flower-headpiece-and-elegant-jewels/1.png \
     groups/surrealist-space-creatures/1.png \
+    groups/monster-truck-rally-big-wheels/1.png \
+    groups/animal-in-the-style-of-georgia-okeeffe/1.png \
+    groups/delicious-picnic-with-outdoorsy-food/1.png \
+    groups/fish-swimming-in-an-underwater-coral-reef/1.png \
+    groups/black-magic-woman-the-game-of-love-santana/1.png \
+    groups/bollywood-movie-with-dancing-people-singing-songs/1.png \
+    groups/dreaming-of-feeling-the-emotion-of-joy/1.png \
+    groups/dragonfly-with-pretty-flowers-like-paper-collage/1.png \
+    groups/halo-energy-summer-renaissance-beyonce/1.png \
     "$file"
 fi
 

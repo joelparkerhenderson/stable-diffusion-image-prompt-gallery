@@ -3,9 +3,12 @@
 group=$1
 src="groups/$group"
 dst="build/groups/$group"
+    montage -tile 2x4 -geometry 640x448+1+1 -border 0 "$src/1.png" "$src/2.png" "$src/3.png" "$src/4.png" "$src/5.png" "$src/6.png" "$src/7.png" "$src/8.png" "$dst/montage-tile-2x4.png"
 if [ ! -d "$dst" ]; then
     mkdir -p "$dst"
     montage -tile 2x2 -geometry 640x448+1+1 -border 0 "$src/1.png" "$src/2.png" "$src/3.png" "$src/4.png" "$dst/montage-tile-2x2.png"
+    montage -tile 2x3 -geometry 640x448+1+1 -border 0 "$src/1.png" "$src/2.png" "$src/3.png" "$src/4.png" "$src/5.png" "$src/6.png" "$dst/montage-tile-2x3.png"
+    montage -tile 2x4 -geometry 640x448+1+1 -border 0 "$src/1.png" "$src/2.png" "$src/3.png" "$src/4.png" "$src/5.png" "$src/6.png" "$src/7.png" "$src/8.png" "$dst/montage-tile-2x4.png"
     montage -tile 3x3 -geometry 640x448+1+1 -border 0 "$src/1.png" "$src/2.png" "$src/3.png" "$src/4.png" "$src/5.png" "$src/6.png" "$src/7.png" "$src/8.png" "$src/9.png" "$dst/montage-tile-3x3.png"
     montage -tile 2x1 -geometry 640x448+1+1 -border 0 "$src/1.png" "$src/2.png" "$dst/montage-stack-1.png"
     montage -tile 3x1 -geometry 426x298+1+1 -border 0 "$src/3.png" "$src/4.png" "$src/5.png" "$dst/montage-stack-2.png"

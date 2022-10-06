@@ -9,7 +9,10 @@ clean:
 groups:
 	bin/make-groups
 
-.PHONY: book
-book: groups
+.PHONY: book-montage-images
+book-montage-images: groups
 	bin/make-book-montage-images
+
+.PHONY: book
+book: groups book-montage-images
 	bin/make-book

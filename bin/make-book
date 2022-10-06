@@ -4,6 +4,19 @@
 #
 # This project-specific script is based on a general-purpose script:
 # https://github.com/sixarm/pandoc-from-markdown-to-pdf
+#
+# ## Troubleshooting
+#
+# If you get an error message about xelatex not found,
+# and you know you have it installed, then you may need
+# to locate it such as on macOS:
+#
+#     /Library/TeX/texbin/xelatex
+#
+# Then add the directory to your path:
+#
+#     export "PATH=$PATH:/Library/TeX/texbin"
+#
 
 # This section is code from sixarm-unix-shell-functions:
 # https://github.com/SixArm/sixarm-unix-shell-functions
@@ -59,5 +72,4 @@ pandoc \
     --toc \
     --toc-depth=2 \
     stable-diffusion-image-prompt-gallery-book.md \
-    -o \
-    stable-diffusion-image-prompt-gallery-book.pdf
+    -o stable-diffusion-image-prompt-gallery-book.pdf
